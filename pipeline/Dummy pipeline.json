@@ -1,0 +1,17 @@
+{
+	"name": "Dummy pipeline",
+	"properties": {
+		"activities": [
+			{
+				"name": "Wait-in-start",
+				"type": "Wait",
+				"dependsOn": [],
+				"userProperties": [],
+				"typeProperties": {
+					"waitTimeInSeconds": 1
+				}
+			}
+		],
+		"annotations": []
+	}
+}
