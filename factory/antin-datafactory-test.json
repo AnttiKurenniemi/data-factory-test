@@ -1,0 +1,9 @@
+{
+	"name": "antin-datafactory-test",
+	"location": "westeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "6ee3cc2a-9fb7-458e-b0f7-5f4e55232652",
+		"tenantId": "28dd66c4-7da3-4587-b711-52555a410d84"
+	}
+}
